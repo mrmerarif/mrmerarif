@@ -42,11 +42,14 @@ A senior project currently in development. The goal is to help users find recipe
 
 [View Repository](https://github.com/mrmerarif/delicious-5-ingredients-recipes)
 
+
 ## GitHub Statistics
 
-![Merari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmerarif&show_icons=true)
+You can view my GitHub activity, contributions, and repositories through the links below.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmerarif&layout=compact)
+- 📊 [Contribution Activity](https://github.com/mrmerarif?tab=overview)
+- 💻 [Public Repositories](https://github.com/mrmerarif?tab=repositories)
+
 
 ## Let's Connect
 
